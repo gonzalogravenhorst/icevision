@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T20:35:13.310Z",
+  "updatedAt": "2026-09-25T20:36:54.926Z",
   "teams": [
     {
       "id": "a7de4e0b-2d62-4316-bd03-2f38f47abb33",
@@ -192,7 +192,7 @@
       "result": {
         "homeScore": 2,
         "awayScore": 1,
-        "completedAt": "2026-09-25T20:27:40.150Z",
+        "completedAt": "2026-09-25T20:35:45.492Z",
         "periodIndex": 1,
         "chronology": [
           {
@@ -224,6 +224,45 @@
             "assistName": "ocampo nicolas",
             "clock": 0.6988999998567598,
             "period": "1° TIEMPO"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fe5ea887-e8b4-485a-b88b-3bf862d0cacb",
+      "home": "a7de4e0b-2d62-4316-bd03-2f38f47abb33",
+      "away": "7427b37c-8b7c-4bce-afd2-f4748a661d59",
+      "date": "2026-09-25T20:36",
+      "config": {
+        "gamePeriods": 2,
+        "periodDuration": 20
+      },
+      "status": "completed",
+      "result": {
+        "homeScore": 2,
+        "awayScore": 0,
+        "completedAt": "2026-09-25T20:36:47.667Z",
+        "periodIndex": 1,
+        "chronology": [
+          {
+            "type": "GOL",
+            "teamId": "a7de4e0b-2d62-4316-bd03-2f38f47abb33",
+            "number": "87",
+            "name": "nicolas sedran",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 1196.096100000024,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "a7de4e0b-2d62-4316-bd03-2f38f47abb33",
+            "number": "20",
+            "name": "stolyarov victor",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 1189.1956000000248,
+            "period": "2° TIEMPO"
           }
         ]
       }
