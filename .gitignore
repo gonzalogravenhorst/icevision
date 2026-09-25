@@ -1,0 +1,7 @@
+# El planillero es solo para la PC del planillero.
+/planillero/
+
+# Archivos del sistema/editor
+.DS_Store
+Thumbs.db
+.vscode/
