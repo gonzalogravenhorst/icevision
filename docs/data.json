@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T20:36:54.926Z",
+  "updatedAt": "2026-09-25T20:56:17.793Z",
   "teams": [
     {
       "id": "a7de4e0b-2d62-4316-bd03-2f38f47abb33",
@@ -262,6 +262,73 @@
             "assistNumber": "",
             "assistName": "",
             "clock": 1189.1956000000248,
+            "period": "2° TIEMPO"
+          }
+        ]
+      }
+    },
+    {
+      "id": "60c2b435-dfb9-43d5-8671-bc7ba18df816",
+      "home": "a7de4e0b-2d62-4316-bd03-2f38f47abb33",
+      "away": "7427b37c-8b7c-4bce-afd2-f4748a661d59",
+      "date": "2026-09-26T20:49",
+      "config": {
+        "gamePeriods": 2,
+        "periodDuration": 20
+      },
+      "status": "completed",
+      "result": {
+        "homeScore": 3,
+        "awayScore": 1,
+        "completedAt": "2026-09-25T20:56:03.720Z",
+        "periodIndex": 1,
+        "chronology": [
+          {
+            "type": "GOL",
+            "teamId": "a7de4e0b-2d62-4316-bd03-2f38f47abb33",
+            "number": "87",
+            "name": "nicolas sedran",
+            "assistNumber": "15",
+            "assistName": "haroshka siargei",
+            "clock": 321.9986000000237,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "a7de4e0b-2d62-4316-bd03-2f38f47abb33",
+            "number": "87",
+            "clock": 197.79340000009537,
+            "period": "1° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "GOL",
+            "teamId": "a7de4e0b-2d62-4316-bd03-2f38f47abb33",
+            "number": "15",
+            "name": "haroshka siargei",
+            "assistNumber": "87",
+            "assistName": "nicolas sedran",
+            "clock": 11.782000000119229,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "7427b37c-8b7c-4bce-afd2-f4748a661d59",
+            "number": "10",
+            "name": "san milan laionel",
+            "assistNumber": "9",
+            "assistName": "ocampo nicolas",
+            "clock": 776.8961000000241,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "a7de4e0b-2d62-4316-bd03-2f38f47abb33",
+            "number": "87",
+            "name": "nicolas sedran",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 333.4958999999746,
             "period": "2° TIEMPO"
           }
         ]
