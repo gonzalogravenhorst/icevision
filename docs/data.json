@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T17:38:08.206Z",
+  "updatedAt": "2026-10-04T17:42:11.468Z",
   "teams": [
     {
       "id": "b95940f3-46d3-44e6-bead-5161810191ed",
@@ -399,6 +399,18 @@
       "home": "08d8205d-3e0c-4552-b341-33867f5a3359",
       "away": "d7db21f4-1fed-496f-9a50-f22d061370c6",
       "date": "2026-11-06T20:00",
+      "config": {
+        "gamePeriods": 2,
+        "periodDuration": 15
+      },
+      "status": "scheduled",
+      "result": null
+    },
+    {
+      "id": "4493752b-d5db-4c08-9751-50ec4295721e",
+      "home": "b95940f3-46d3-44e6-bead-5161810191ed",
+      "away": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+      "date": "2026-11-13T20:00",
       "config": {
         "gamePeriods": 2,
         "periodDuration": 15
