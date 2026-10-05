@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T17:42:11.468Z",
+  "updatedAt": "2026-10-05T20:00:37.834Z",
   "teams": [
     {
       "id": "b95940f3-46d3-44e6-bead-5161810191ed",
@@ -95,14 +95,14 @@
     {
       "id": "315525fe-6b6f-4c2b-a2a6-cca839e60c7d",
       "name": "MASLOV KIRIL",
-      "number": "00",
+      "number": "8",
       "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
       "type": "player"
     },
     {
       "id": "803ceaef-5574-4c74-9273-897d40c23f85",
       "name": "ARUTOVICH NARULIN ROMAN",
-      "number": "00",
+      "number": "78",
       "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
       "type": "player"
     },
@@ -116,7 +116,7 @@
     {
       "id": "68831347-cd54-45c0-a8ed-628426783d45",
       "name": "CONTI AGUSTÍN",
-      "number": "8",
+      "number": "5",
       "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
       "type": "player"
     },
@@ -417,6 +417,175 @@
       },
       "status": "scheduled",
       "result": null
+    },
+    {
+      "id": "a46fa7ed-eeec-41ed-8308-b0ae99cf0398",
+      "home": "b95940f3-46d3-44e6-bead-5161810191ed",
+      "away": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+      "date": "2026-09-11T20:00",
+      "config": {
+        "gamePeriods": 2,
+        "periodDuration": 15
+      },
+      "status": "completed",
+      "result": {
+        "homeScore": 2,
+        "awayScore": 5,
+        "completedAt": "2026-10-05T20:00:32.731Z",
+        "periodIndex": 1,
+        "chronology": [
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "78",
+            "name": "ARUTOVICH NARULIN ROMAN",
+            "assistNumber": "8",
+            "assistName": "MASLOV KIRIL",
+            "clock": 891.4884999999997,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "8",
+            "name": "PEREZ PASTORINO MATIAS",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 667.4714999999999,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "87",
+            "name": "SEDRAN NICOLÁS",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 294.15009999999376,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "92",
+            "name": "BARRA FELIPE",
+            "assistNumber": "11",
+            "assistName": "HAIEK JORGE",
+            "clock": 775.3985000000001,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "8",
+            "name": "PEREZ PASTORINO MATIAS",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 532.1909000000062,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "92",
+            "name": "BARRA FELIPE",
+            "assistNumber": "8",
+            "assistName": "PEREZ PASTORINO MATIAS",
+            "clock": 442.0820000000002,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "92",
+            "name": "BARRA FELIPE",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 21.98000000000022,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "25",
+            "clock": 441.98000000000025,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "25",
+            "clock": 441.98000000000025,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "11",
+            "clock": 441.98000000000025,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "25",
+            "clock": 441.98000000000025,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "28",
+            "clock": 441.98000000000025,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "26",
+            "clock": 441.98000000000025,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "78",
+            "clock": 441.98000000000025,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "87",
+            "clock": 320.0790000000003,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "8",
+            "clock": 320.0790000000003,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "14",
+            "clock": 320.0790000000003,
+            "period": "2° TIEMPO",
+            "duration": 120
+          }
+        ]
+      }
     }
   ]
 }
