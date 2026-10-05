@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T20:27:11.860Z",
+  "updatedAt": "2026-10-05T22:15:53.245Z",
   "teams": [
     {
       "id": "b95940f3-46d3-44e6-bead-5161810191ed",
@@ -233,13 +233,6 @@
       "type": "player"
     },
     {
-      "id": "be8e3fc2-75a3-4ddb-b732-7c376fca7573",
-      "name": "HAIEK OWEN",
-      "number": "10",
-      "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
-      "type": "player"
-    },
-    {
       "id": "782a5e2a-c074-4fe9-a16e-c71c3e6bc2ae",
       "name": "HAIEK JORGE",
       "number": "10",
@@ -341,6 +334,13 @@
       "id": "01635f11-2943-43f7-bd0b-b73b7d384ec8",
       "name": "RAMPOLDI MATEO",
       "number": "95",
+      "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+      "type": "player"
+    },
+    {
+      "id": "e091ee34-ce68-4d33-b1fc-01c101e38c68",
+      "name": "HAIEK OWEN",
+      "number": "00",
       "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
       "type": "player"
     }
