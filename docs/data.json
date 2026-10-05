@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T20:02:59.617Z",
+  "updatedAt": "2026-10-05T20:20:37.129Z",
   "teams": [
     {
       "id": "b95940f3-46d3-44e6-bead-5161810191ed",
@@ -165,7 +165,7 @@
     {
       "id": "cc43c5cb-df2d-497f-9b3f-db34434509ea",
       "name": "BARVINOK SERGEI",
-      "number": "13",
+      "number": "94",
       "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
       "type": "player"
     },
@@ -242,7 +242,7 @@
     {
       "id": "782a5e2a-c074-4fe9-a16e-c71c3e6bc2ae",
       "name": "HAIEK JORGE",
-      "number": "11",
+      "number": "10",
       "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
       "type": "player"
     },
@@ -270,7 +270,7 @@
     {
       "id": "2ba6f738-1037-4740-b686-ae72e91449ed",
       "name": "MANDAYO JUAN",
-      "number": "22",
+      "number": "23",
       "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
       "type": "player"
     },
@@ -305,7 +305,7 @@
     {
       "id": "6637ed25-3a9e-4e4e-b77f-96c8324f9c7b",
       "name": "BULANOV MARK",
-      "number": "34",
+      "number": "11",
       "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
       "type": "player"
     },
@@ -596,8 +596,302 @@
         "gamePeriods": 2,
         "periodDuration": 15
       },
-      "status": "scheduled",
-      "result": null
+      "status": "completed",
+      "result": {
+        "homeScore": 6,
+        "awayScore": 3,
+        "completedAt": "2026-10-05T20:10:23.168Z",
+        "periodIndex": 1,
+        "chronology": [
+          {
+            "type": "GOL",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "11",
+            "name": "HAIEK JORGE",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 611.1853000000114,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "94",
+            "name": "#94",
+            "assistNumber": "25",
+            "assistName": "DEL GESSO TOMÁS",
+            "clock": 341.08100000002923,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "77",
+            "name": "SPEZZI PABLO",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 309.2735000000293,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "11",
+            "clock": 309.2735000000293,
+            "period": "1° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "17",
+            "name": "SAVCHUK ROMÁN",
+            "assistNumber": "94",
+            "assistName": "BARVINOK SERGEI",
+            "clock": 509.88630000001194,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "10",
+            "name": "SAN MILLÁN LAIONEL",
+            "assistNumber": "94",
+            "assistName": "BARVINOK SERGEI",
+            "clock": 437.2750000000297,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "10",
+            "name": "HAIEK OWEN",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 197.16090000003567,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "17",
+            "name": "SAVCHUK ROMÁN",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 183.95380000004167,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "94",
+            "name": "BARVINOK SERGEI",
+            "assistNumber": "95",
+            "assistName": "LA GRECA NICOLÁS",
+            "clock": 25.094900000005957,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "9",
+            "clock": 205.09490000000596,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "16",
+            "clock": 205.09490000000596,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "25",
+            "clock": 205.09490000000596,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "17",
+            "name": "SAVCHUK ROMÁN",
+            "assistNumber": "51",
+            "assistName": "MONTES LUCAS",
+            "clock": 0,
+            "period": "FINAL"
+          }
+        ]
+      }
+    },
+    {
+      "id": "60780414-ed84-4aea-89db-78114a07289b",
+      "home": "08d8205d-3e0c-4552-b341-33867f5a3359",
+      "away": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+      "date": "2026-09-25T20:00",
+      "config": {
+        "gamePeriods": 2,
+        "periodDuration": 15
+      },
+      "status": "completed",
+      "result": {
+        "homeScore": 3,
+        "awayScore": 6,
+        "completedAt": "2026-10-05T20:20:27.851Z",
+        "periodIndex": 1,
+        "chronology": [
+          {
+            "type": "GOL",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "92",
+            "name": "BARRA FELIPE",
+            "assistNumber": "23",
+            "assistName": "",
+            "clock": 857.9989999999999,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "17",
+            "name": "SAVCHUK ROMÁN",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 707.898099999994,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "92",
+            "name": "BARRA FELIPE",
+            "assistNumber": "11",
+            "assistName": "HAIEK JORGE",
+            "clock": 430.6969000000058,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "94",
+            "name": "BARVINOK SERGEI",
+            "assistNumber": "17",
+            "assistName": "SAVCHUK ROMÁN",
+            "clock": 220.1816000000237,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "11",
+            "clock": 220.1816000000237,
+            "period": "1° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "92",
+            "clock": 220.1816000000237,
+            "period": "1° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "10",
+            "clock": 220.1816000000237,
+            "period": "1° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "GOL",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "8",
+            "name": "PEREZ PASTORINO MATIAS",
+            "assistNumber": "11",
+            "assistName": "BULANOV MARK",
+            "clock": 508.6898000000118,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "8",
+            "name": "PEREZ PASTORINO MATIAS",
+            "assistNumber": "23",
+            "assistName": "MANDAYO JUAN",
+            "clock": 172.5855,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "17",
+            "name": "SAVCHUK ROMÁN",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 111.36859999999403,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "92",
+            "name": "BARRA FELIPE",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 65.06249999997014,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "8",
+            "name": "PEREZ PASTORINO MATIAS",
+            "assistNumber": "11",
+            "assistName": "BULANOV MARK",
+            "clock": 4.954299999952261,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "9",
+            "clock": 60,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "18",
+            "clock": 60,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "95",
+            "clock": 60,
+            "period": "2° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
+            "number": "16",
+            "clock": 60,
+            "period": "2° TIEMPO",
+            "duration": 120
+          }
+        ]
+      }
     }
   ]
 }
