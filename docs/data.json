@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T01:43:56.438Z",
+  "updatedAt": "2026-10-10T00:24:46.090Z",
   "teams": [
     {
       "id": "b95940f3-46d3-44e6-bead-5161810191ed",
@@ -343,6 +343,20 @@
       "number": "00",
       "teamId": "d7db21f4-1fed-496f-9a50-f22d061370c6",
       "type": "player"
+    },
+    {
+      "id": "3f82c183-9e57-4a40-850a-1d5d5cb8e002",
+      "name": "DE LUCA, Elias",
+      "number": "93",
+      "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+      "type": "player"
+    },
+    {
+      "id": "dccce66c-7aa8-4dc9-adc6-bbde5c018471",
+      "name": "LABROM, MARC",
+      "number": "00",
+      "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+      "type": "player"
     }
   ],
   "matches": [
@@ -355,8 +369,153 @@
         "gamePeriods": 2,
         "periodDuration": 15
       },
-      "status": "scheduled",
-      "result": null
+      "status": "completed",
+      "result": {
+        "homeScore": 4,
+        "awayScore": 6,
+        "completedAt": "2026-10-10T00:23:32.325Z",
+        "periodIndex": 1,
+        "chronology": [
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "10",
+            "name": "SAN MILLÁN LAIONEL",
+            "assistNumber": "18",
+            "assistName": "RENZO CLEMENTINO",
+            "clock": 825.2886000000001,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "TIME OUT",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "clock": 692.8650999999996,
+            "period": "1° TIEMPO",
+            "duration": 60
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "92",
+            "name": "#92",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 628.2583000000005,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "87",
+            "name": "SEDRAN NICOLÁS",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 610.6490000000007,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "9",
+            "name": "#9",
+            "assistNumber": "87",
+            "assistName": "SEDRAN NICOLÁS",
+            "clock": 226.2143999999988,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "87",
+            "clock": 123.00869999999966,
+            "period": "1° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "95",
+            "clock": 123.00869999999966,
+            "period": "1° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "51",
+            "name": "MONTES LUCAS",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 114.97989999999986,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "14",
+            "clock": 94.06519999999968,
+            "period": "1° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "95",
+            "name": "LA GRECA NICOLÁS",
+            "assistNumber": "10",
+            "assistName": "SAN MILLÁN LAIONEL",
+            "clock": 882.1904000000011,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "87",
+            "name": "SEDRAN NICOLÁS",
+            "assistNumber": "14",
+            "assistName": "LEE MARTIN",
+            "clock": 526.3618000000055,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "18",
+            "name": "RENZO CLEMENTINO",
+            "assistNumber": "10",
+            "assistName": "SAN MILLÁN LAIONEL",
+            "clock": 443.45520000000505,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "TIME OUT",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "clock": 443.45520000000505,
+            "period": "2° TIEMPO",
+            "duration": 60
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "10",
+            "name": "#10",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 140.74210000000332,
+            "period": "2° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "17",
+            "name": "#17",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 2.2288000000026065,
+            "period": "2° TIEMPO"
+          }
+        ]
+      }
     },
     {
       "id": "985ceef6-dcfe-44c5-95dd-61ccaae2ae2c",
