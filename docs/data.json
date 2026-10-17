@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T00:24:46.090Z",
+  "updatedAt": "2026-10-17T22:59:14.812Z",
   "teams": [
     {
       "id": "b95940f3-46d3-44e6-bead-5161810191ed",
@@ -526,8 +526,149 @@
         "gamePeriods": 2,
         "periodDuration": 15
       },
-      "status": "scheduled",
-      "result": null
+      "status": "completed",
+      "result": {
+        "homeScore": 8,
+        "awayScore": 3,
+        "completedAt": "2026-10-17T22:57:51.609Z",
+        "periodIndex": 1,
+        "chronology": [
+          {
+            "type": "PENALIDAD",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "8",
+            "clock": 880.392300000012,
+            "period": "1° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "87",
+            "name": "SEDRAN NICOLÁS",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 687.1846999999887,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "20",
+            "clock": 678.3841999999887,
+            "period": "1° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "25",
+            "name": "DEL GESSO TOMÁS",
+            "assistNumber": "17",
+            "assistName": "SAVCHUK ROMÁN",
+            "clock": 606.2885999999949,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "PENALIDAD",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "18",
+            "clock": 598.8850999999952,
+            "period": "1° TIEMPO",
+            "duration": 120
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "87",
+            "name": "SEDRAN NICOLÁS",
+            "assistNumber": "14",
+            "assistName": "LEE MARTIN",
+            "clock": 594.6680999999954,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "17",
+            "name": "SAVCHUK ROMÁN",
+            "assistNumber": "51",
+            "assistName": "MONTES LUCAS",
+            "clock": 528.6607000000201,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "14",
+            "name": "LEE MARTIN",
+            "assistNumber": "8",
+            "assistName": "MASLOV KIRIL",
+            "clock": 404.8600999999961,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "17",
+            "name": "SAVCHUK ROMÁN",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 312.44750000000204,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "87",
+            "name": "SEDRAN NICOLÁS",
+            "assistNumber": "20",
+            "assistName": "STOLYAROV VICTOR",
+            "clock": 252.44750000000204,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "8",
+            "name": "MASLOV KIRIL",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 248.142300000014,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "8",
+            "name": "MASLOV KIRIL",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 216.84160000002598,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "87",
+            "name": "SEDRAN NICOLÁS",
+            "assistNumber": "20",
+            "assistName": "STOLYAROV VICTOR",
+            "clock": 216.84160000002598,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "87",
+            "name": "SEDRAN NICOLÁS",
+            "assistNumber": "8",
+            "assistName": "MASLOV KIRIL",
+            "clock": 469.39900000000006,
+            "period": "2° TIEMPO"
+          }
+        ]
+      }
     },
     {
       "id": "0c6e79a9-e8d4-4218-a650-79ea1ebbdc07",
