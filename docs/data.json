@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T23:17:22.387Z",
+  "updatedAt": "2026-10-17T23:34:07.400Z",
   "teams": [
     {
       "id": "b95940f3-46d3-44e6-bead-5161810191ed",
@@ -373,7 +373,7 @@
       "result": {
         "homeScore": 4,
         "awayScore": 6,
-        "completedAt": "2026-10-17T23:17:16.893Z",
+        "completedAt": "2026-10-17T23:33:39.819Z",
         "periodIndex": 1,
         "chronology": [
           {
@@ -475,6 +475,16 @@
             "assistName": "",
             "clock": 799.3890999999959,
             "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "17",
+            "name": "SAVCHUK ROMÁN",
+            "assistNumber": "17",
+            "assistName": "SAVCHUK ROMÁN",
+            "clock": 0,
+            "period": "FINAL"
           }
         ]
       }
