@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T22:59:14.812Z",
+  "updatedAt": "2026-10-17T23:17:22.387Z",
   "teams": [
     {
       "id": "b95940f3-46d3-44e6-bead-5161810191ed",
@@ -373,7 +373,7 @@
       "result": {
         "homeScore": 4,
         "awayScore": 6,
-        "completedAt": "2026-10-10T00:23:32.325Z",
+        "completedAt": "2026-10-17T23:17:16.893Z",
         "periodIndex": 1,
         "chronology": [
           {
@@ -383,61 +383,8 @@
             "name": "SAN MILLÁN LAIONEL",
             "assistNumber": "18",
             "assistName": "RENZO CLEMENTINO",
-            "clock": 825.2886000000001,
+            "clock": 891.4875999999938,
             "period": "1° TIEMPO"
-          },
-          {
-            "type": "TIME OUT",
-            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
-            "clock": 692.8650999999996,
-            "period": "1° TIEMPO",
-            "duration": 60
-          },
-          {
-            "type": "GOL",
-            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
-            "number": "92",
-            "name": "#92",
-            "assistNumber": "",
-            "assistName": "",
-            "clock": 628.2583000000005,
-            "period": "1° TIEMPO"
-          },
-          {
-            "type": "GOL",
-            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
-            "number": "87",
-            "name": "SEDRAN NICOLÁS",
-            "assistNumber": "",
-            "assistName": "",
-            "clock": 610.6490000000007,
-            "period": "1° TIEMPO"
-          },
-          {
-            "type": "GOL",
-            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
-            "number": "9",
-            "name": "#9",
-            "assistNumber": "87",
-            "assistName": "SEDRAN NICOLÁS",
-            "clock": 226.2143999999988,
-            "period": "1° TIEMPO"
-          },
-          {
-            "type": "PENALIDAD",
-            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
-            "number": "87",
-            "clock": 123.00869999999966,
-            "period": "1° TIEMPO",
-            "duration": 120
-          },
-          {
-            "type": "PENALIDAD",
-            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
-            "number": "95",
-            "clock": 123.00869999999966,
-            "period": "1° TIEMPO",
-            "duration": 120
           },
           {
             "type": "GOL",
@@ -446,26 +393,38 @@
             "name": "MONTES LUCAS",
             "assistNumber": "",
             "assistName": "",
-            "clock": 114.97989999999986,
+            "clock": 876.386900000006,
             "period": "1° TIEMPO"
           },
           {
-            "type": "PENALIDAD",
+            "type": "GOL",
             "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
-            "number": "14",
-            "clock": 94.06519999999968,
-            "period": "1° TIEMPO",
-            "duration": 120
+            "number": "8",
+            "name": "MASLOV KIRIL",
+            "assistNumber": "93",
+            "assistName": "DE LUCA, Elias",
+            "clock": 861.9995999999942,
+            "period": "1° TIEMPO"
           },
           {
             "type": "GOL",
-            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
-            "number": "95",
-            "name": "LA GRECA NICOLÁS",
-            "assistNumber": "10",
-            "assistName": "SAN MILLÁN LAIONEL",
-            "clock": 882.1904000000011,
-            "period": "2° TIEMPO"
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "87",
+            "name": "SEDRAN NICOLÁS",
+            "assistNumber": "8",
+            "assistName": "MASLOV KIRIL",
+            "clock": 847.3995000000007,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "20",
+            "name": "STOLYAROV VICTOR",
+            "assistNumber": "87",
+            "assistName": "SEDRAN NICOLÁS",
+            "clock": 839.568500000001,
+            "period": "1° TIEMPO"
           },
           {
             "type": "GOL",
@@ -474,8 +433,18 @@
             "name": "SEDRAN NICOLÁS",
             "assistNumber": "14",
             "assistName": "LEE MARTIN",
-            "clock": 526.3618000000055,
-            "period": "2° TIEMPO"
+            "clock": 832.886699999989,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "95",
+            "name": "LA GRECA NICOLÁS",
+            "assistNumber": "10",
+            "assistName": "SAN MILLÁN LAIONEL",
+            "clock": 818.187900000007,
+            "period": "1° TIEMPO"
           },
           {
             "type": "GOL",
@@ -484,35 +453,28 @@
             "name": "RENZO CLEMENTINO",
             "assistNumber": "10",
             "assistName": "SAN MILLÁN LAIONEL",
-            "clock": 443.45520000000505,
-            "period": "2° TIEMPO"
-          },
-          {
-            "type": "TIME OUT",
-            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
-            "clock": 443.45520000000505,
-            "period": "2° TIEMPO",
-            "duration": 60
+            "clock": 810.8887999999835,
+            "period": "1° TIEMPO"
           },
           {
             "type": "GOL",
-            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
             "number": "10",
-            "name": "#10",
+            "name": "SAN MILLÁN LAIONEL",
             "assistNumber": "",
             "assistName": "",
-            "clock": 140.74210000000332,
-            "period": "2° TIEMPO"
+            "clock": 803.6851999999899,
+            "period": "1° TIEMPO"
           },
           {
             "type": "GOL",
-            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
             "number": "17",
-            "name": "#17",
+            "name": "SAVCHUK ROMÁN",
             "assistNumber": "",
             "assistName": "",
-            "clock": 2.2288000000026065,
-            "period": "2° TIEMPO"
+            "clock": 799.3890999999959,
+            "period": "1° TIEMPO"
           }
         ]
       }
@@ -529,18 +491,10 @@
       "status": "completed",
       "result": {
         "homeScore": 8,
-        "awayScore": 3,
-        "completedAt": "2026-10-17T22:57:51.609Z",
+        "awayScore": 5,
+        "completedAt": "2026-10-17T23:14:31.624Z",
         "periodIndex": 1,
         "chronology": [
-          {
-            "type": "PENALIDAD",
-            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
-            "number": "8",
-            "clock": 880.392300000012,
-            "period": "1° TIEMPO",
-            "duration": 120
-          },
           {
             "type": "GOL",
             "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
@@ -548,34 +502,18 @@
             "name": "SEDRAN NICOLÁS",
             "assistNumber": "",
             "assistName": "",
-            "clock": 687.1846999999887,
+            "clock": 713.4957999999816,
             "period": "1° TIEMPO"
-          },
-          {
-            "type": "PENALIDAD",
-            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
-            "number": "20",
-            "clock": 678.3841999999887,
-            "period": "1° TIEMPO",
-            "duration": 120
           },
           {
             "type": "GOL",
             "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
-            "number": "25",
-            "name": "DEL GESSO TOMÁS",
-            "assistNumber": "17",
-            "assistName": "SAVCHUK ROMÁN",
-            "clock": 606.2885999999949,
+            "number": "95",
+            "name": "LA GRECA NICOLÁS",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 703.9994999999996,
             "period": "1° TIEMPO"
-          },
-          {
-            "type": "PENALIDAD",
-            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
-            "number": "18",
-            "clock": 598.8850999999952,
-            "period": "1° TIEMPO",
-            "duration": 120
           },
           {
             "type": "GOL",
@@ -584,7 +522,7 @@
             "name": "SEDRAN NICOLÁS",
             "assistNumber": "14",
             "assistName": "LEE MARTIN",
-            "clock": 594.6680999999954,
+            "clock": 633.195299999982,
             "period": "1° TIEMPO"
           },
           {
@@ -594,7 +532,7 @@
             "name": "SAVCHUK ROMÁN",
             "assistNumber": "51",
             "assistName": "MONTES LUCAS",
-            "clock": 528.6607000000201,
+            "clock": 621.996299999982,
             "period": "1° TIEMPO"
           },
           {
@@ -604,17 +542,17 @@
             "name": "LEE MARTIN",
             "assistNumber": "8",
             "assistName": "MASLOV KIRIL",
-            "clock": 404.8600999999961,
+            "clock": 611.2987999999824,
             "period": "1° TIEMPO"
           },
           {
             "type": "GOL",
-            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
-            "number": "17",
-            "name": "SAVCHUK ROMÁN",
-            "assistNumber": "",
-            "assistName": "",
-            "clock": 312.44750000000204,
+            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
+            "number": "20",
+            "name": "STOLYAROV VICTOR",
+            "assistNumber": "8",
+            "assistName": "MASLOV KIRIL",
+            "clock": 587.4965999999954,
             "period": "1° TIEMPO"
           },
           {
@@ -624,7 +562,7 @@
             "name": "SEDRAN NICOLÁS",
             "assistNumber": "20",
             "assistName": "STOLYAROV VICTOR",
-            "clock": 252.44750000000204,
+            "clock": 579.0975999999962,
             "period": "1° TIEMPO"
           },
           {
@@ -634,7 +572,7 @@
             "name": "MASLOV KIRIL",
             "assistNumber": "",
             "assistName": "",
-            "clock": 248.142300000014,
+            "clock": 576.0935999999961,
             "period": "1° TIEMPO"
           },
           {
@@ -644,17 +582,7 @@
             "name": "MASLOV KIRIL",
             "assistNumber": "",
             "assistName": "",
-            "clock": 216.84160000002598,
-            "period": "1° TIEMPO"
-          },
-          {
-            "type": "GOL",
-            "teamId": "b95940f3-46d3-44e6-bead-5161810191ed",
-            "number": "87",
-            "name": "SEDRAN NICOLÁS",
-            "assistNumber": "20",
-            "assistName": "STOLYAROV VICTOR",
-            "clock": 216.84160000002598,
+            "clock": 573.0978999999782,
             "period": "1° TIEMPO"
           },
           {
@@ -664,8 +592,38 @@
             "name": "SEDRAN NICOLÁS",
             "assistNumber": "8",
             "assistName": "MASLOV KIRIL",
-            "clock": 469.39900000000006,
-            "period": "2° TIEMPO"
+            "clock": 566.0980000000022,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "17",
+            "name": "SAVCHUK ROMÁN",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 546.8975000000016,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "95",
+            "name": "LA GRECA NICOLÁS",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 536.6970000000025,
+            "period": "1° TIEMPO"
+          },
+          {
+            "type": "GOL",
+            "teamId": "08d8205d-3e0c-4552-b341-33867f5a3359",
+            "number": "1",
+            "name": "CHEVALLIER JOSÉ",
+            "assistNumber": "",
+            "assistName": "",
+            "clock": 531.5988999999788,
+            "period": "1° TIEMPO"
           }
         ]
       }
