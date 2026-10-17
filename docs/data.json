@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T23:34:07.400Z",
+  "updatedAt": "2026-10-17T23:36:09.952Z",
   "teams": [
     {
       "id": "b95940f3-46d3-44e6-bead-5161810191ed",
@@ -372,8 +372,8 @@
       "status": "completed",
       "result": {
         "homeScore": 4,
-        "awayScore": 6,
-        "completedAt": "2026-10-17T23:33:39.819Z",
+        "awayScore": 5,
+        "completedAt": "2026-10-17T23:35:53.392Z",
         "periodIndex": 1,
         "chronology": [
           {
